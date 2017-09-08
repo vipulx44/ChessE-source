@@ -1,0 +1,26 @@
+called: C:\MinGW\bin\gcc.exe
+	C:\Users\Sakshee\Desktop\mysource
+	C:\MinGW\bin\gcc.exe
+	xboard.c
+	impala.c
+	uci.c
+	evaluate.c
+	pvtab.c
+	init.c
+	bb.c
+	poskeys.c
+	myboard.c
+	data.c
+	sqattack.c
+	inputoutput.c
+	genmove.c
+	val.c
+	makemove.c
+	perft.c
+	search.c
+	extra.c
+	-o
+	finalimpala
+	-O2
+	-s
+
